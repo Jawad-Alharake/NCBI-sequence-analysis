@@ -1,4 +1,4 @@
-Biological Sequence Retrieval, Analysis, and Visualization from NCBI
+**Biological Sequence Retrieval, Analysis, and Visualization from NCBI**
 
 📌 Overview
 
@@ -7,8 +7,11 @@ This Python script retrieves biological sequence data from the NCBI nucleotide d
 ⚙️ Features
 
 Fetch sequences by accession numbers from NCBI.
+
 Parse data in FASTA format using Biopython’s SeqIO.
+
 Calculate nucleotide composition (percentage of A, T, G, C, N).
+
 Display results in a bar chart with Matplotlib.
 
 
@@ -22,7 +25,11 @@ Sequence ID → Nucleotide Composition Percentage
 🧪 Example Accession Numbers
 
 This script uses example mitochondrial genome IDs:
-NC_012920.1 – Homo sapiens mitochondrion, complete genome
-NC_001807.4 – Homo sapiens mitochondrion, rCRS
-NC_011137.1 – Pan troglodytes mitochondrion, complete genome
+
+NC_012920.1 – Homo sapiens mitochondrion, complete genome
+
+NC_001807.4 – Homo sapiens mitochondrion, rCRS
+
+NC_011137.1 – Pan troglodytes mitochondrion, complete genome
+
 You can replace these with any other valid NCBI nucleotide accession numbers.
