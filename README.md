@@ -6,15 +6,11 @@ This Python script retrieves biological sequence data from the NCBI nucleotide d
 
 ⚙️ Features
 
-Fetch sequences by accession numbers from NCBI.
-Parse data in FASTA format using Biopython’s SeqIO.
-Calculate nucleotide composition (percentage of A, T, G, C, N).
-Display results in a bar chart with Matplotlib.
+Fetch sequences by accession numbers from NCBI.
+Parse data in FASTA format using Biopython’s SeqIO.
+Calculate nucleotide composition (percentage of A, T, G, C, N).
+Display results in a bar chart with Matplotlib.
 
-📦 Requirements
-
-Before running the script, install the required libraries:
-pip install biopython pandas matplotlib
 
 📊 Example Output
 
